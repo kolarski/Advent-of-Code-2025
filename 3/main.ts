@@ -5,11 +5,6 @@ let maxNum = Array(totalBatteries).fill(0);
 let sum = 0
 let charIndex = 0;
 
-
-// Solutions does not use .split('\n')
-// Solutions should have near linear complexity - O(n * ~totalBatteries) 
-// The 2 inner  loops and .every are edge cases and very small. 
-
 for (let i = 0; i < input.length; i++) {
     if (input[i] === '\n') {
         if (maxNum.every(i => i !== 0)) {
