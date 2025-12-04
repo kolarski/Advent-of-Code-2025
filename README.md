@@ -10,12 +10,6 @@ Personal repo with my solutions. I’ll try to solve all days in TypeScript (Den
 - Day 2: ☑ Part 1 — Solved; ☐ Part 2 — Attempt to solve
 - Day 3: ☑ Part 1 — Solved; ☑ Part 2 — Solved
 
-## How to Run (Deno)
-
-```bash
-deno run --allow-read src/day03/part1.ts inputs/day03.txt
-```
-
 ## Daily Log
 
 ### Day 1 (https://adventofcode.com/2025/day/1)
