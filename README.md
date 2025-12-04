@@ -2,7 +2,7 @@
 
 Personal repo with my solutions. I’ll try to solve all days in TypeScript (Deno).
 
-## ⭐⭐⭐ Current Stars: 5
+## ⭐⭐⭐ Current Stars: 6
 
 ## Progress
 
@@ -14,7 +14,8 @@ Personal repo with my solutions. I’ll try to solve all days in TypeScript (Den
 
 ### Day 1 (https://adventofcode.com/2025/day/1)
 
-- [ ] Attempt to solve
+- [x] Part 1 — Solved
+- [ ] Part 2 —
 
 ### Day 2 (https://adventofcode.com/2025/day/2)
 
