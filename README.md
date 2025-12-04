@@ -10,6 +10,8 @@ Personal repo with my solutions. I’ll try to solve all days in TypeScript (Den
 
 - [x] Part 1 — Solved
 - [ ] Part 2 —
+- Notes:
+  - Learned the `((x % N) + N) % N` normalization trick to avoid non negative-results and correctly wrap around
 
 ### Day 2 (https://adventofcode.com/2025/day/2)
 
