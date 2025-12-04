@@ -36,4 +36,5 @@ Personal repo with my solutions. I’ll try to solve all days in TypeScript (Den
 
 - Notes:
   - Solution is not optimal. We can optimize it further for performance. Current solution is optimized for DX :)
-    Link: https://adventofcode.com/2025
+
+Link: https://adventofcode.com/2025
