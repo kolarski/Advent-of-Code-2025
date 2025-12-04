@@ -1,6 +1,8 @@
 # 🎄🎅 Advent of Code 2025 🎁❄️
 
-Personal repo with my solutions.
+Link: https://adventofcode.com/2025
+
+This is my personal repo with solutions.
 I’ll try to solve all days in TypeScript (Deno).
 No AI help allowed :)
 
@@ -40,5 +42,3 @@ No AI help allowed :)
 
 - Notes:
   - Solution is not optimal. We can optimize it further for performance. Current solution is optimized for DX :)
-
-Link: https://adventofcode.com/2025
