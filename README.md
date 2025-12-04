@@ -4,12 +4,6 @@ Personal repo with my solutions. I’ll try to solve all days in TypeScript (Den
 
 ## ⭐⭐⭐ Current Stars: 6
 
-## Progress
-
-- Day 1: ☐ Attempt to solve
-- Day 2: ☑ Part 1 — Solved; ☐ Part 2 — Attempt to solve
-- Day 3: ☑ Part 1 — Solved; ☑ Part 2 — Solved
-
 ## Daily Log
 
 ### Day 1 (https://adventofcode.com/2025/day/1)
