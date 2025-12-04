@@ -1,6 +1,8 @@
 # 🎄🎅 Advent of Code 2025 🎁❄️
 
-Personal repo with my solutions. I’ll try to solve all days in TypeScript (Deno).
+Personal repo with my solutions.
+I’ll try to solve all days in TypeScript (Deno).
+No AI help allowed :)
 
 ## ⭐⭐⭐ Current Stars: 6
 
