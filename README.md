@@ -1,4 +1,4 @@
-# Advent of Code 2025
+# 🎄🎅 Advent of Code 2025 🎁❄️
 
 Personal repo with my solutions. I’ll try to solve all days in TypeScript (Deno).
 
