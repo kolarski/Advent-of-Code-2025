@@ -44,5 +44,6 @@ deno run --allow-read src/day03/part1.ts inputs/day03.txt
 
 - [ ] Part 1 — Solved
 - [ ] Part 2 — Solved
-
-Link: https://adventofcode.com/2025
+- Notes:
+  - Solution is not optimal. We can optimize it further for performance. Current solution is optimized for DX :)
+    Link: https://adventofcode.com/2025
