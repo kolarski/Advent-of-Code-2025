@@ -2,7 +2,7 @@
 
 Personal repo with my solutions. I’ll try to solve all days in TypeScript (Deno).
 
-## ⭐⭐⭐ Current Stars: 3
+## ⭐⭐⭐ Current Stars: 5
 
 ## Progress
 
