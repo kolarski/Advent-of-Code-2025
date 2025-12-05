@@ -6,7 +6,7 @@ This is my personal repo with solutions.
 I’ll try to solve all days in TypeScript (Deno).
 No AI help allowed :)
 
-## ⭐⭐⭐ Current Stars: 6
+## ⭐⭐⭐ Current Stars: 7
 
 ## Daily Log
 
@@ -39,6 +39,15 @@ No AI help allowed :)
 
 - [x] Part 1 — Solved
 - [x] Part 2 — Solved
-
 - Notes:
   - Solution is not optimal. We can optimize it further for performance. Current solution is optimized for DX :)
+
+### Day 5 (https://adventofcode.com/2025/day/5)
+
+- [x] Part 1 — Solved
+- [] Part 2 —
+- Notes:
+  - I've solved very similar task for a project of mine with overlapping intervals for work-time of shops and stores
+  - you have worktime ranges and you need to check if the store is open at current time
+  - Normally you will order and dedupe the intervals and there is very optimal way to do it but this task allows simple bruteforce
+  - So two nested loops solved Part 1 in less than a second.
